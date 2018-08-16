@@ -4,12 +4,21 @@
 
 Hello and welcome to my data science portfolio! Here, you will find a myriad of projects that will help demonstrate my capabilities in regards to data science including data exploration, visualization, and modeling. This portfolio is a work in progress, and I can assure you that there will be more to come!
 
-# [Energy Production in the United States](https://github.com/mhuh22/Thinkful/blob/master/Portfolio/Prep%20Capstone/The%20State%20of%20Energy%20(in%20the%20United%20States).ipynb)
+## [Energy Production in the United States](https://github.com/mhuh22/Thinkful/blob/master/Portfolio/Prep%20Capstone/The%20State%20of%20Energy%20(in%20the%20United%20States).ipynb)
 Date: April 2018
 
-Project Overview: Energy production in the United States, and the world, 
+Overview: Energy usage has been an interesting topic in the last century with the rise of automobiles, pollution, and environmental regulations. What this project looks at is a broad overview on what energy consumption and production has looked like from 1946 to 2016, and extrapolate potential trends from existing data.
 
-# [Predicting the Outcome of Kickstarter Projects](http://nbviewer.jupyter.org/github/mhuh22/Thinkful/blob/master/Portfolio/Supervised%20Learning%20Capstone/Predicting%20The%20Outcome%20of%20Kickstarter%20Projects.ipynb)
+Skills: Data Exploration & Visualization, linear regression
+
+Tools: Python (numpy, pandas, matplotlib, scipy)
+
+## [Predicting the Outcome of Kickstarter Projects](http://nbviewer.jupyter.org/github/mhuh22/Thinkful/blob/master/Portfolio/Supervised%20Learning%20Capstone/Predicting%20The%20Outcome%20of%20Kickstarter%20Projects.ipynb)
 Date: July 2018
 
-Project Overview: 
+Overview: Kickstarter allows creators to transform ideas into actual products, but a lot of projects fail to meet expectations or get off the ground. What factors are responsible for dictating the success or failure of project, and what should creators do to bolster their odds?
+
+Skills: Data exploration & visualization, feature engineering & selection,
+machine Learning (logistic regression, random forest, gradient boosting)
+        
+Tools: Python (numpy, pandas, matplotlib, seaborn, plotly, scipy, scikit-learn)
