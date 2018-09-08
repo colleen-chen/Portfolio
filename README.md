@@ -23,7 +23,7 @@ machine Learning (logistic regression, random forest, gradient boosting)
         
 Tools: Python (numpy, pandas, matplotlib, seaborn, plotly, scipy, scikit-learn)
 
-## [Clustering with News Publications](https://github.com/mhuh22/Thinkful/blob/master/Bootcamp/Unit%204/Lesson%205%20-%20Unsupervised%20Learning%20Capstone/Unsupervised%20Learning%20Capstone.ipynb)
+## [Clustering with News Publications](http://nbviewer.jupyter.org/github/mhuh22/Portfolio/blob/master/Clustering%20with%20News%20Publications/Unsupervised%20Learning%20Capstone.ipynb)
 Date: August 2018
 
 Overview: For the most part, people are free to choose what news outlets they read and follow. In the United States, there is a near-endless list of sites that people can choose from in order to get their daily news and over time, they develop preferences for sites that they are more attached to, and do their best to avoid. What I would like to examine in this project is if it is possible to differentiate from several different publications based on their works.
