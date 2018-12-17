@@ -30,7 +30,7 @@ Skills: Natural language processing, clustering (k-means, spectral, & affinity p
 Tools: Python (numpy, pandas, matplotlib, plotly, scipy, scikit-learn, nltk, re, spacy)
 
 
-## [Sentiment Analysis with Airline Tweets](http://nbviewer.jupyter.org/github/mhuh22/Portfolio/blob/master/Sentiment%20Analysis%20with%20Airline%20Tweets/Airline%20Sentiment%20Analysis%20using%20Twitter%20Data.ipynb) (WIP)
+## [Sentiment Analysis with Airline Tweets](http://nbviewer.jupyter.org/github/mhuh22/Portfolio/blob/master/Sentiment%20Analysis%20with%20Airline%20Tweets/Airline%20Sentiment%20Analysis%20using%20Twitter%20Data.ipynb)
 
 Overview: Social media is a treasure trove of textual data, as it allows users all over the world to express themselves and share whatever they want to say, get attention, and even start movements. For this project, I will be evaluating what people think about the choices they have in their travels using publicly available Twitter mentions.
 
