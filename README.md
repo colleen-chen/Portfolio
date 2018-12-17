@@ -34,6 +34,6 @@ Tools: Python (numpy, pandas, matplotlib, plotly, scipy, scikit-learn, nltk, re,
 
 Overview: Social media is a treasure trove of textual data, as it allows users all over the world to express themselves and share whatever they want to say, get attention, and even start movements. For this project, I will be evaluating what people think about the choices they have in their travels using publicly available Twitter mentions.
 
-Skill: Tweepy (Twitter API), Natural language processing, clustering, meachine learning (logistic regression, random forest, gradient boosting, Neural Networks)
+Skill: Tweepy (Twitter API), natural language processing, clustering, meachine learning (logistic regression, random forest, gradient boosting, neural networks)
 
 Tools: Python (numpy, pandas, plotly, scipy, scikit-learn, nltk, re, wordcloud)
